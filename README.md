@@ -4,7 +4,7 @@
 
 Sou profissional de TI com experiência em suporte técnico (N1/N2) e desenvolvimento, fortalecendo minha transição para Desenvolvimento Full Stack com base em Front-end.
 
-📍 Pindamonhangaba, SP  | 📞 (12) 99233-2513  | ✉️ mariafernandalira072020@gmail.com  
+📍 Pindamonhangaba, SP  | ✉️ mariafernandalira072020@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mariafernandalira0702)
 [![GitHub](https://img.shields.io/badge/GitHub-maliraa07-181717?style=for-the-badge&logo=github)](https://github.com/maliraa07)
@@ -50,18 +50,6 @@ Busco uma oportunidade para aplicar minhas habilidades na area de Tecnologia da 
 ### 🛠️ Suporte e Infra
 AnyDesk • TeamViewer • UltraViewer • GLPI • TOTVS • Redes e cabeamento • Backup • Manutencao de hardware
 
----
-
-## 💼 Experiencia profissional
-
-### Analista de TI - GV do Brasil
-**Dez/2022 - atual**
-
-### Auxiliar de Suporte Tecnico (Help Desk) - Resolve Servicos Empresariais
-**Mar/2022 - Dez/2022**
-
-### Jovem Aprendiz Administrativo - GV do Brasil
-**Dez/2020 - Mar/2022**
 
 ---
 
@@ -85,6 +73,7 @@ AnyDesk • TeamViewer • UltraViewer • GLPI • TOTVS • Redes e cabeamento
 
 ## 🎓 Formacao academica
 
+- Pós-graduação em Desenvolvimento Full Stack - Uniaméria (Cursando desde mai/2026)
 - Tecnologo em Analise e Desenvolvimento de Sistemas - UNINTER (mai/2025)
 - Tecnico em Administracao - ETEC Joao Gomes de Araujo (jun/2022)
 - Tecnico em Informatica - ETEC Joao Gomes de Araujo (dez/2020)
