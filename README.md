@@ -4,8 +4,6 @@
 
 Sou profissional de TI com experiência em suporte técnico (N1/N2) e desenvolvimento, fortalecendo minha transição para Desenvolvimento Full Stack com base em Front-end.
 
-📍 Pindamonhangaba, SP  | ✉️ mariafernandalira072020@gmail.com  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mariafernandalira0702)
 [![GitHub](https://img.shields.io/badge/GitHub-maliraa07-181717?style=for-the-badge&logo=github)](https://github.com/maliraa07)
 
@@ -42,11 +40,6 @@ Busco uma oportunidade para aplicar minhas habilidades na area de Tecnologia da 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
-### 🗄️ Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
 ### 🛠️ Suporte e Infra
 AnyDesk • TeamViewer • UltraViewer • GLPI • TOTVS • Redes e cabeamento • Backup • Manutencao de hardware
 
@@ -75,22 +68,12 @@ AnyDesk • TeamViewer • UltraViewer • GLPI • TOTVS • Redes e cabeamento
 
 - Pós-graduação em Desenvolvimento Full Stack - Uniaméria (Cursando desde mai/2026)
 - Tecnologo em Analise e Desenvolvimento de Sistemas - UNINTER (mai/2025)
-- Tecnico em Administracao - ETEC Joao Gomes de Araujo (jun/2022)
-- Tecnico em Informatica - ETEC Joao Gomes de Araujo (dez/2020)
-- Ensino Medio Completo - ETEC Joao Gomes de Araujo (dez/2020)
 
 ---
 
 ## 🤝 Soft skills
 
 Comunicacao clara • Trabalho em equipe • Organizacao • Pontualidade • Resolucao de conflitos
-
----
-
-## 📈 GitHub Stats (opcional)
-
-![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=maliraa07&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maliraa07&layout=compact&theme=tokyonight)
 
 ---
 
