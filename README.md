@@ -48,8 +48,10 @@ Atuar como **Desenvolvedora Front-end Web**, entregando interfaces **acessíveis
 | Projeto | Descrição | Demo |
 |---------|-----------|------|
 | **Horizon** | App de controle de gastos (React, TypeScript, Vite, Zustand) | [Abrir demo](https://maliraa07.github.io/Projeto_Horizon/) |
+| **Estudie** | Timer de foco estilo Pomodoro (HTML, CSS, JavaScript) | [Abrir demo](https://maliraa07.github.io/Projeto_Estudie/) |
+| **GameStore** | Simula um e-commerce de jogos para PC e console (HTML, CSS, JavaScript) | [Abrir demo](https://maliraa07.github.io/Projeto_GamesStore/) |
 | **Portfólio** | Site profissional com tema claro/escuro e seções completas | [Abrir site](https://maliraa07.github.io/MeuPortifolio_/) |
-| **VidaPlus** | Sistema de gestão hospitalar (FastAPI + React) | Em evolução |
+| **VidaPlus** | Sistema de gestão hospitalar (FastAPI + React) | Em ajsutes |
 
 ---
 
@@ -71,14 +73,6 @@ Atuar como **Desenvolvedora Front-end Web**, entregando interfaces **acessíveis
 | **Pós-graduação em Desenvolvimento Full Stack** | Descomplica | Cursando (desde mai/2025) |
 | **Tecnólogo em Análise e Desenvolvimento de Sistemas** | UNINTER | Concluído (mai/2025) |
 
----
-
-## Estatísticas GitHub
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=maliraa07&show_icons=true&theme=vue&include_all_commits=true&count_private=false" alt="Estatísticas do GitHub"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliraa07&layout=compact&langs_count=8&theme=vue" alt="Linguagens mais usadas"/>
-
----
 
 <div align="center">
 
