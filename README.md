@@ -82,6 +82,8 @@ Atuar como **Desenvolvedora Front-end Web**, entregando interfaces **acessíveis
 
 Vamos construir algo juntos?
 
+[💰 Horizon](https://maliraa07.github.io/Projeto_Horizon/) · [⏱️ Estudie](https://maliraa07.github.io/Projeto_Estudie/) · [🎮 GameStore](https://maliraa07.github.io/Projeto_GamesStore/) · [🌐 Portfólio](https://maliraa07.github.io/MeuPortifolio_/) · [💼 LinkedIn](https://www.linkedin.com/in/mariafernandalira0702)
+
 **Feito com dedicação, tecnologia e propósito.**
 
 </div>
