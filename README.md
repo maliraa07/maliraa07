@@ -35,9 +35,9 @@ Atuar como **Desenvolvedora Front-end Web**, entregando interfaces **acessíveis
 | | |
 |:---:|:---:|
 | 🎨 **UI/UX** | React, TypeScript, Tailwind CSS e boas práticas de interface |
-| 📐 **Layout** | HTML5, CSS3, responsividade e acessibilidade |
+| 📐 **Layout** | HTML5, CSS3 e responsividade |
 | 🔌 **Integração** | Consumo de **APIs REST** no front-end |
-| 📚 **Estudo** | Projetos reais, cursos e desafios práticos |
+| 📚 **Estudo** | Projetos reais e desafios práticos |
 | 🤖 **Ferramentas** | **Cursor AI** para produtividade no desenvolvimento |
 | ✨ **Perfil** | Criativa, curiosa e mão na massa |
 
@@ -51,7 +51,7 @@ Atuar como **Desenvolvedora Front-end Web**, entregando interfaces **acessíveis
 | **Estudie** | Timer de foco estilo Pomodoro (HTML, CSS, JavaScript) | [Abrir demo](https://maliraa07.github.io/Projeto_Estudie/) |
 | **GameStore** | Simula um e-commerce de jogos para PC e console (HTML, CSS, JavaScript) | [Abrir demo](https://maliraa07.github.io/Projeto_GamesStore/) |
 | **Portfólio** | Site profissional com tema claro/escuro e seções completas | [Abrir site](https://maliraa07.github.io/MeuPortifolio_/) |
-| **VidaPlus** | Sistema de gestão hospitalar (FastAPI + React) | Em ajsutes |
+| **VidaPlus** | Sistema de gestão hospitalar (FastAPI + React) | Em processo de melhoria |
 
 ---
 
@@ -81,8 +81,6 @@ Atuar como **Desenvolvedora Front-end Web**, entregando interfaces **acessíveis
 📧 mariafernandalira072020@gmail.com
 
 Vamos construir algo juntos?
-
-[⭐ Portfólio](https://maliraa07.github.io/MeuPortifolio_/) · [💰 Horizon](https://maliraa07.github.io/Projeto_Horizon/) · [💼 LinkedIn](https://www.linkedin.com/in/mariafernandalira0702)
 
 **Feito com dedicação, tecnologia e propósito.**
 
