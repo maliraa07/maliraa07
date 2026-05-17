@@ -1,53 +1,95 @@
-# 👩🏻‍💻 Maria Fernanda Silva Lira
+<div align="center">
 
-**`Desenvolvedora Front-end Web | Vibe coder criativa e em constante evolução 🚀`**
+# Maria Fernanda Silva Lira
 
-Sou desenvolvedora **Front-end Web**, criando interfaces funcionais, responsivas e com foco em experiência do usuário. Trabalho com ReactJS, JavaScript, HTML5, CSS3 e Tailwind CSS, construindo projetos reais e acadêmicos com atenção à qualidade do código e ao visual.
+### Desenvolvedora Front-end Web · Vibe coder criativa e em constante evolução
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mariafernandalira0702)
-[![GitHub](https://img.shields.io/badge/GitHub-maliraa07-181717?style=for-the-badge&logo=github)](https://github.com/maliraa07)
-[![Portfólio](https://img.shields.io/badge/Portfólio-devmaliraa07-FF4081?style=for-the-badge&logo=netlify&logoColor=white)](https://devmaliraa07.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariafernandalira0702)
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-Visitar_site-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://maliraa07.github.io/MeuPortifolio_/)
+[![Horizon](https://img.shields.io/badge/💰_Horizon-Demo_app-059669?style=for-the-badge&logo=react&logoColor=white)](https://maliraa07.github.io/Projeto_Horizon/)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-maliraa07-181717?style=for-the-badge&logo=github)](https://github.com/maliraa07)
 
----
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/)
 
-## 🎯 Objetivo
+Sou desenvolvedora **Front-end Web**, criando interfaces funcionais, responsivas e com foco em **experiência do usuário**. Trabalho com **React**, **TypeScript**, **JavaScript**, **HTML5**, **CSS3** e **Tailwind CSS**, em projetos reais e acadêmicos com atenção à qualidade do código e ao visual.
 
-Atuar como **Desenvolvedora Front-end Web**, criando interfaces acessíveis, responsivas e bem estruturadas. Busco contribuir em projetos reais com entrega de qualidade e comprometimento com o produto final.
-
----
-
-## 🧠 Sobre mim
-
-- 🎨 Desenvolvimento de interfaces com **React**, **Tailwind CSS** e boas práticas de UI/UX;
-- 📐 Layouts responsivos e acessíveis com **HTML5** e **CSS3**;
-- 🔌 Consumo e integração de **APIs REST** no front-end com JavaScript e React;
-- 📚 Aprendizado contínuo com projetos reais, cursos e desafios práticos;
-- 🤖 Utilizo **Cursor AI** como ferramenta de produtividade no desenvolvimento;
-- ✨ Vibe coder: criativa, curiosa e mão na massa.
+</div>
 
 ---
 
-## 🚀 Tecnologias
+## Objetivo
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
-
+Atuar como **Desenvolvedora Front-end Web**, entregando interfaces **acessíveis**, **responsivas** e bem estruturadas, com comprometimento com o produto final e evolução contínua.
 
 ---
 
-## 🎓 Formação Acadêmica
+## Sobre mim
 
-- 🎓 **Pós-graduação em Desenvolvimento Full Stack** — Descomplica *(cursando desde mai/2025)*
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNINTER *(concluído em mai/2025)*
+| | |
+|:---:|:---:|
+| 🎨 **UI/UX** | React, TypeScript, Tailwind CSS e boas práticas de interface |
+| 📐 **Layout** | HTML5, CSS3, responsividade e acessibilidade |
+| 🔌 **Integração** | Consumo de **APIs REST** no front-end |
+| 📚 **Estudo** | Projetos reais, cursos e desafios práticos |
+| 🤖 **Ferramentas** | **Cursor AI** para produtividade no desenvolvimento |
+| ✨ **Perfil** | Criativa, curiosa e mão na massa |
 
 ---
 
-<p align="center">
-  <i>Disponível para oportunidades em Front-end Web. Vamos construir algo juntos? 🤝</i>
-</p>
+## Projetos em destaque
+
+| Projeto | Descrição | Demo |
+|---------|-----------|------|
+| **Horizon** | App de controle de gastos (React, TypeScript, Vite, Zustand) | [Abrir demo](https://maliraa07.github.io/Projeto_Horizon/) |
+| **Portfólio** | Site profissional com tema claro/escuro e seções completas | [Abrir site](https://maliraa07.github.io/MeuPortifolio_/) |
+| **VidaPlus** | Sistema de gestão hospitalar (FastAPI + React) | Em evolução |
+
+---
+
+## Stack
+
+| Área | Tecnologias |
+|------|-------------|
+| Front-End | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS |
+| Back-End (projetos) | Python, FastAPI, APIs REST, JWT |
+| Ferramentas | Git, GitHub, Cursor AI, Bootstrap, Vite |
+| Deploy | GitHub Pages, Netlify |
+
+---
+
+## Formação acadêmica
+
+| Curso | Instituição | Status |
+|-------|-------------|--------|
+| **Pós-graduação em Desenvolvimento Full Stack** | Descomplica | Cursando (desde mai/2025) |
+| **Tecnólogo em Análise e Desenvolvimento de Sistemas** | UNINTER | Concluído (mai/2025) |
+
+---
+
+## Estatísticas GitHub
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=maliraa07&show_icons=true&theme=vue&include_all_commits=true&count_private=false" alt="Estatísticas do GitHub"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliraa07&layout=compact&langs_count=8&theme=vue" alt="Linguagens mais usadas"/>
+
+---
+
+<div align="center">
+
+**Disponível para oportunidades em Front-end Web.**
+
+📧 mariafernandalira072020@gmail.com
+
+Vamos construir algo juntos?
+
+[⭐ Portfólio](https://maliraa07.github.io/MeuPortifolio_/) · [💰 Horizon](https://maliraa07.github.io/Projeto_Horizon/) · [💼 LinkedIn](https://www.linkedin.com/in/mariafernandalira0702)
+
+**Feito com dedicação, tecnologia e propósito.**
+
+</div>
